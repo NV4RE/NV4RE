@@ -1,32 +1,28 @@
 ## Hello there
 
-<script src="https://embed.github.com/view/geojson/benbalter/dc-wifi-social/master/bars.geojson"></script>
-
-
 ![NV4RE's github stats](https://github-readme-stats.vercel.app/api?username=NV4RE&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NV4RE&layout=compact)
 
 **Stack**
 
-<img src="https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript%20-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-222222.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=ffffff"/>
+<code><img src="https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/typescript%20-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/javascript-222222.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></code>
+<code><img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=ffffff"/></code>
 
 <br/>
 
-<img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/styled-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/webpack-405152.svg?&style=for-the-badge&logo=webpack&logoColor=ffffff"/>
+<code><img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=ffffff"/></code>
+<code><img src="https://img.shields.io/badge/styled-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=ffffff"/></code>
+<code><img src="https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=ffffff"/></code>
+<code><img src="https://img.shields.io/badge/webpack-405152.svg?&style=for-the-badge&logo=webpack&logoColor=ffffff"/></code>
 
 <br/>
 
-<img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=ffffff"/>
-
+<code><img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=ffffff"/></code>
+<code><img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=ffffff"/></code>
+<code><img src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=ffffff"/></code>
 
 **Get in touch**
 
