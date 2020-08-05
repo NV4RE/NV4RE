@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/NV4RE/NV4RE/master/resources/hellothere.png"/>
+<img src="https://raw.githubusercontent.com/NV4RE/nv4re/master/resources/hellothere.png"/>
 
 ![NV4RE's github stats](https://github-readme-stats.vercel.app/api?username=NV4RE&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)
 
