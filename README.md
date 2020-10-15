@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/NV4RE/nv4re/master/resources/hellothere.png"/>
-
 **WHOIMI**
 
 - A male full-stack developer who code for living.
